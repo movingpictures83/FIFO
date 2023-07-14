@@ -1,0 +1,2 @@
+Prefix plugins/FIFO/example/
+Plugin FIFO inputfile none outputfile none
